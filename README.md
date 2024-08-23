@@ -1,6 +1,5 @@
-# tf_computer_vision
-
-## Exploring MNIST dataset using Tensorflow , Keras , and many more machine learning models. 
+# MNIST Handwritten Digit Recognition with TensorFlow
+This project explores the classification of handwritten digits from the MNIST dataset using a wide range of machine learning and deep learning techniques. Various models, including K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Decision Trees, Extra Trees, Random Forest, Gradient Boosting Machines (GBM), and deep learning frameworks like TensorFlow and Keras, were implemented and evaluated. Through meticulous model selection, hyperparameter tuning, and comparative analysis, the project achieved high accuracy in digit classification. This work demonstrates a deep understanding of model performance evaluation and optimization across diverse algorithms and frameworks, highlighting the strengths and weaknesses of each approach.
 
 
 ## Accuracy
